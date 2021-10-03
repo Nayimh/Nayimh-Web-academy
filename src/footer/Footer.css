@@ -1,0 +1,16 @@
+.footer{
+    height: 15vh;
+    background-color: rgb(174, 209, 174);
+    letter-spacing: 3px;
+    margin-top: 3rem;
+    
+}
+.linkContainer{
+    margin-bottom: 30px;
+}
+.linkContainer a{
+    text-decoration: none;
+    margin: auto;
+    padding: 5px;
+   
+}
