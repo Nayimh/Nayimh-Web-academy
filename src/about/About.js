@@ -1,9 +1,12 @@
 import React from 'react';
 import './About.css'
+import Image from '../../src/image/logo'
 const About = () => {
     return (
         <div className="aboutContainer mt-5  d-flex text-start">
+             <img className="w-25 h-25 mt-5 pt-3" src={Image} alt="" />
             <article className="mt-5 p-2">
+           
             <h1 className="mt-5"> 
             We believe
 Learning is the source of human progress.
@@ -32,6 +35,7 @@ So that anyone, anywhere has the power to
 transform their life through learning.
                
             </article>
+            
       
         </div>
     );
