@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "Instructor": "Leanne Graham",
+        "CourseName": "Full stack web development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtq52k2itfQUrMgLZHE3Wa3Qe2F092LHegDetL2ulzx-gg0_zNGSzfQ8pgbafNN6dit-8&usqp=CAU",
+        "Price": 800
+    },
+    {
+        "id": 2,
+        "Instructor": "Sean Dalton",
+        "CourseName": "UI / UX design",
+        "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/126406433/original/51d408438433d69fa3bcb99069dc4c0794304f72/create-ui-ux-design-for-your-app.jpg",
+        "Price": 500
+    },
+    {
+        "id": 3,
+        "Instructor": "Thomas Frank",
+        "CourseName": "Data Science",
+        "image": "https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg",
+        "Price": 900
+    },
+    {
+        "id": 4,
+        "Instructor": "Gia Graham",
+        "CourseName": "Software engineering",
+        "image": "https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg",
+        "Price": 700
+    }
+]

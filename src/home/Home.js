@@ -29,7 +29,7 @@ const Home = () => {
                         <h4>Course Name: {course.CourseName}</h4> <br /> 
                         <h5>Instructor Name: {course.Instructor}</h5> <br />
                         <p>Price: ${course.Price}</p> <br />
-                        <button className="bg-success btn ">Details</button>
+                        <button className="bg-success btn w-50">Details</button>
                 </div>)
             }
            </div>

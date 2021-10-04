@@ -26,7 +26,7 @@ const Services = () => {
                     <h4>service Name: {service.serviceName}</h4> <br /> 
                     <h5>Instructor Name: {service.Instructor}</h5> <br />
                     <p>Price: ${service.Price}</p> <br />
-                    <button className="bg-success btn ">Details</button>
+                    <button className="bg-success btn w-50">Details</button>
             </div>)
                 }
             </div>

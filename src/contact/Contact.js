@@ -20,7 +20,7 @@ const Contact = () => {
         <label htmlFor="message">Message</label>
         <textarea className="form-control" rows="5"></textarea>
     </div>
-    <button type="submit" className="btn btn-success my-2">Submit</button>
+    <button type="submit" className="btn btn-success my-2 w-100">Submit</button>
 </form>
             </div>
            
